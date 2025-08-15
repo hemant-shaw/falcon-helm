@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   falcon-kac:
   - apiVersion: v2
-    appVersion: 7.30.0-rc1
+    appVersion: 7.31.0-rc1
     created: "2025-08-12T17:06:41.79212505+01:00"
     description: A Helm chart to deploy CrowdStrike Falcon Kubernetes Admission Controller.
     digest: 925e6e072994ce4c73e3b89cf5906232acb27c3dbe86c4140311ab5b43c77490
